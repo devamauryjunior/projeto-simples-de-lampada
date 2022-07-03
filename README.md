@@ -1,7 +1,7 @@
 # Projeto simples de lâmapda
 
-Nesse projeto simples, o objetivo é ligar, desligar e mostra a lâmpada quebrada, utilizando JavaScript.
-[lamapada](https://lampada-on-off.netlify.app/)
+Nesse projeto simples, o objetivo é ligar, desligar e mostra a [lamapada](https://lampada-on-off.netlify.app/) quebrada, utilizando JavaScript.
+
 ## Stack utilizada
 
 **Front-end:** HTML, CCS, JavaScript
