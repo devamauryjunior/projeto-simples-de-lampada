@@ -1,6 +1,6 @@
 # Projeto simples de lâmapda
 
-Nesse projeto simples, o objetivo é liga, desligar e mostra a lâmpada quebrada, utilizando JavaScript.
+Nesse projeto simples, o objetivo é ligar, desligar e mostra a lâmpada quebrada, utilizando JavaScript.
 
 ## Stack utilizada
 
